@@ -39,7 +39,7 @@
 /* Begin PBXFileReference section */
 		065EBDE07030ED72A627C78A /* Pods_LNEmailModule_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LNEmailModule_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3889CFAFEA76584FAB3DC4BD /* Pods-LNEmailModule_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LNEmailModule_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LNEmailModule_Tests/Pods-LNEmailModule_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		3F2517C09750A27C49C0E975 /* LNEmailModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = LNEmailModule.podspec; path = ../LNEmailModule.podspec; sourceTree = "<group>"; };
+		3F2517C09750A27C49C0E975 /* LNEmailModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LNEmailModule.podspec; path = ../LNEmailModule.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		4EDACA34217BD3E4415E2546 /* Pods-LNEmailModule_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LNEmailModule_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-LNEmailModule_Example/Pods-LNEmailModule_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* LNEmailModule_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LNEmailModule_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -65,8 +65,8 @@
 		932C1316F8C91E826DCEC7C0 /* Pods-LNEmailModule_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LNEmailModule_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LNEmailModule_Example/Pods-LNEmailModule_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		AB68336C099DDD0DA28B629A /* Pods-LNEmailModule_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LNEmailModule_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LNEmailModule_Tests/Pods-LNEmailModule_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		ADD5ED646289A2EBD199EA6C /* Pods_LNEmailModule_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LNEmailModule_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E4F35E9B0C8AB9AF939C3A77 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		F5775073A7817B0587ADFDD3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		E4F35E9B0C8AB9AF939C3A77 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		F5775073A7817B0587ADFDD3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

@@ -1,0 +1,16 @@
+PODS:
+  - LNEmailModule (0.1.0)
+
+DEPENDENCIES:
+  - LNEmailModule (from `../`)
+
+EXTERNAL SOURCES:
+  LNEmailModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LNEmailModule: dcb71443ddf417007061968375049a20e859227d
+
+PODFILE CHECKSUM: ffa3897dd6069944b20a9ffa68d87a0e7cc9e21c
+
+COCOAPODS: 1.5.3
